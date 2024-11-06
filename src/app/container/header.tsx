@@ -9,7 +9,7 @@ const Header = () => {
         <Link href="/" className="flex items-center space-x-2">
           <GamepadIcon className="h-8 w-8 text-yellow-500" />
           <span className="text-2xl font-bold text-white">
-            ArcadeTournament
+            CashCade
           </span>
         </Link>
         <nav className="hidden md:flex space-x-4">
